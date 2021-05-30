@@ -1,6 +1,6 @@
 # This is a bug reproduction repository for [jemise111/react-native-swipe-list-view](https://github.com/jemise111/react-native-swipe-list-view)
 
-#### Link to the issue : TODO
+#### Link to the issue : [#556](https://github.com/jemise111/react-native-swipe-list-view/issues/556)
 
 #### Steps to use this repo (as the bug is iOS related, you need a MacOS based computer and all the standard tool-suit) :
 
